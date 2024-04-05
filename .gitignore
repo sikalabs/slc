@@ -1,0 +1,20 @@
+# Mac
+.DS_Store
+
+# Editer
+.vscode
+
+# App
+dist/**
+/slc
+/slc.exe
+/slc-linux-amd64
+cobra-docs
+
+# Config
+*.local.json
+.slc.state.json
+.slc.secrets.json
+
+# Local scripts
+*.local.sh
